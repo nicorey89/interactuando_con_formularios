@@ -97,11 +97,11 @@ input, select{
   height: 25px;
 }
 .is-valid {
-  color: #198754;
+  border: 1px solid #198754;
 }
 
 .is-invalid {
-  color: #842029;
+  border: 1px solid #842029;
 }
 
 .alert-warning{
